@@ -22,7 +22,7 @@ public class JavaScanner {
 		  System.out.println("   J    a   v     v  a   ");
 		  System.out.println("   J   a a   v   v  a a  ");
 		  System.out.println("J  J  aaaaa   V V  aaaaa ");
-		  System.out.println(" JJ  a     a   V  a     a");
+		  System.out.println(" JJ a   a   V  a     a");
 		  
 			double R=25.5;
 			double M=3.5;
